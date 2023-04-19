@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(proto)
+
 set(ROOT ${CMAKE_CURRENT_SOURCE_DIR})
 
 # add_library(test_protobuf ${ROOT}/test.pb.cc)
